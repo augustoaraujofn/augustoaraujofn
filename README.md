@@ -20,9 +20,9 @@
 
 ### Sobre mim
 
-Sou profissional de Quality Assurance (QA), com foco em contribuir para a qualidade, a estabilidade e a confiabilidade de aplicações.
+Sou graduado em Análise e Desenvolvimento de Sistemas e atuo na área de **Quality Assurance (QA)**, com foco em contribuir para a qualidade, a estabilidade e a confiabilidade de aplicações.
 
-Tenho experiência prática com testes funcionais, exploratórios e regressivos, elaboração de casos de teste, identificação e documentação de defeitos, além de automação de testes.
+Tenho experiência prática com testes funcionais, exploratórios e regressivos, elaboração e execução de casos de teste, identificação e documentação de defeitos, além de projetos de automação de testes.
 
 Atualmente, atuo como **QA Voluntário na Clickmax**, colaborando na identificação de falhas e na melhoria contínua da qualidade de uma plataforma SaaS.
 
@@ -52,7 +52,7 @@ Busco aprimorar continuamente minhas habilidades em automação de testes com Cy
 - Software Testing Life Cycle (STLC)
 - Metodologias ágeis: Scrum e Kanban
 
-**Em desenvolvimento:** automação de testes, testes de API com Postman, consultas SQL e fundamentos de qualidade de software.
+**Em constante aprendizado:** aprofundando conhecimentos em automação de testes com Cypress, testes de API com Postman, consultas SQL e boas práticas de qualidade de software.
 
 ### Experiência prática
 
@@ -76,7 +76,7 @@ Atuação prática em Quality Assurance, colaborando com a equipe na identifica�
   Projeto de automação de testes de login utilizando JavaScript e CodeceptJS, com validação de cenários positivos e negativos.
 
 - **[Testes de Login — OrangeHRM](https://github.com/augustoaraujofn/login-orangehrm)**  
-  Projeto voltado à validação do fluxo de autenticação, incluindo testes positivos e negativos, validação de campos e mensagens de erro.
+  Projeto de testes funcionais do fluxo de autenticação, contemplando cenários positivos e negativos, validação de campos e mensagens de erro.
 
 - **[Cypress Real World App](https://github.com/augustoaraujofn/cypress-realworld-app)**  
   Estudos e prática de automação de testes com Cypress e JavaScript, explorando cenários automatizados e boas práticas de testes.
