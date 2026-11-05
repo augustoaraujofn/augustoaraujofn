@@ -4,7 +4,8 @@
 <h3 align="center">QA Júnior | Analista de Testes de Software</h3>
 
 <p align="center">
-   Graduado em Análise e Desenvolvimento de Sistemas, com foco em qualidade de software, testes manuais e automação de testes.
+   Quality Assurance (QA), comprometido em identificar riscos, prevenir falhas e transformar testes em confiança, contribuindo para a entrega de software de qualidade e melhores experiências para os usuários.
+</p>
 </p>
 
 <p align="center">
