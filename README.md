@@ -20,13 +20,13 @@
 
 ### Sobre mim
 
-Sou graduado em Análise e Desenvolvimento de Sistemas e atuo na área de **Quality Assurance (QA)**, com foco em contribuir para a qualidade, a estabilidade e a confiabilidade de aplicações.
+Sou graduado em Análise e Desenvolvimento de Sistemas e atuo com **Quality Assurance (QA)**, buscando contribuir para a entrega de aplicações confiáveis e de qualidade.
 
-Tenho experiência prática com testes funcionais, exploratórios e regressivos, elaboração e execução de casos de teste, identificação e documentação de defeitos, além de projetos de automação de testes.
+Tenho experiência prática com testes funcionais, exploratórios e regressivos, elaboração e execução de casos de teste, identificação e documentação de defeitos, além de automação de testes.
 
-Atualmente, atuo como **QA Voluntário na Clickmax**, colaborando na identificação de falhas e na melhoria contínua da qualidade de uma plataforma SaaS.
+Atualmente, atuo como **QA Voluntário na Clickmax**, participando da validação de funcionalidades, identificação de falhas e melhoria contínua da qualidade de uma plataforma SaaS.
 
-Busco aprimorar continuamente minhas habilidades em automação de testes com Cypress, testes de API com Postman e boas práticas de qualidade de software.
+Estou em constante evolução, aprofundando meus conhecimentos em automação de testes com Cypress, testes de API com Postman e boas práticas de qualidade de software.
 
 ### Tecnologias e ferramentas
 
@@ -52,13 +52,13 @@ Busco aprimorar continuamente minhas habilidades em automação de testes com Cy
 - Software Testing Life Cycle (STLC)
 - Metodologias ágeis: Scrum e Kanban
 
-**Em constante aprendizado:** aprofundando conhecimentos em automação de testes com Cypress, testes de API com Postman, consultas SQL e boas práticas de qualidade de software.
+**Em constante aprendizado:** aprofundando conhecimentos em automação de testes, testes de API, consultas SQL e fundamentos de qualidade de software.
 
 ### Experiência prática
 
 #### QA Voluntário — Clickmax
 
-Atuação prática em Quality Assurance, colaborando com a equipe na identificação de falhas e na melhoria da qualidade de uma plataforma SaaS.
+Atuação prática em Quality Assurance em uma plataforma SaaS, colaborando com a equipe na validação de funcionalidades, identificação de defeitos e melhoria contínua da qualidade do produto.
 
 **Principais atividades:**
 
