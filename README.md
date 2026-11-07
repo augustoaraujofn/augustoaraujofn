@@ -71,19 +71,6 @@ Atuação prática em Quality Assurance em uma plataforma SaaS, colaborando com 
 - Priorização de testes considerando riscos e impactos para o negócio.
 - Colaboração com a equipe para melhorar a experiência e a confiabilidade do produto.
 
-### Projetos em destaque
-
-- **[Automação de Login com CodeceptJS](https://github.com/augustoaraujofn/automacao-login-com-codeceptjs)**  
-  Projeto de automação de testes de login utilizando JavaScript e CodeceptJS, com validação de cenários positivos e negativos.
-
-- **[Testes de Login — OrangeHRM](https://github.com/augustoaraujofn/login-orangehrm)**  
-  Projeto de testes funcionais do fluxo de autenticação, contemplando cenários positivos e negativos, validação de campos e mensagens de erro.
-
-- **[Cypress Real World App](https://github.com/augustoaraujofn/cypress-realworld-app)**  
-  Estudos e prática de automação de testes com Cypress e JavaScript, explorando cenários automatizados e boas práticas de testes.
-
----
-
 ### Formação e aprendizado
 
 🎓 **Análise e Desenvolvimento de Sistemas**
